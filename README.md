@@ -20,10 +20,9 @@ public class ModelUser
 }
 
 Program.cs:
-{
+
 static void Main(string[] args)
 {
-
     List<ModelUser> userLists = new List<ModelUser>
     {
          new ModelUser{  UserName="张小凡", Age=420},
